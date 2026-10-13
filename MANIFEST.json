@@ -1,0 +1,60 @@
+{
+  "version": "2026.10.13-expedition.2",
+  "animejs": {
+    "version": "4.3.0",
+    "license": "MIT",
+    "bundled": true
+  },
+  "files": [
+    {
+      "path": "LICENSE-CONTENT-NOTICE.md",
+      "bytes": 766,
+      "sha256": "c18a21541cb8265fd5d5db64ec27d625e46edfbba33a313b617a490653d2ed26"
+    },
+    {
+      "path": "LICENSE-animejs-MIT.txt",
+      "bytes": 1075,
+      "sha256": "3f3e835a9952cfc2a6ca836fb95b3257c981f24fa3ef51249055acb09931897b"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 2985,
+      "sha256": "d39b1f2f5f86a8a6f3ba4b8cd33baca554f358ce59247eac9b2c1b15daea5e3d"
+    },
+    {
+      "path": "expedition-foreground.png",
+      "bytes": 1117664,
+      "sha256": "12eadacc20919d16a643dc7a64260a9511e32da60abe8bfbad47475fd1897971"
+    },
+    {
+      "path": "expedition-terrain.png",
+      "bytes": 3642291,
+      "sha256": "80269d3f7a58a840af9230c63a3a83ed9d436abcdc053e09b3ebc9e4d4a38aaa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 20282,
+      "sha256": "5ee85d4e3281a3a0fbfb69adb01dce1e73ad07cba9234cac4e66034580999f95"
+    },
+    {
+      "path": "learner.png",
+      "bytes": 2043047,
+      "sha256": "b1139fe9cb7f173a50109bc8bd6f6f3901658a8340fd53737dae5f40a4207ccc"
+    },
+    {
+      "path": "runtime.js",
+      "bytes": 221701,
+      "sha256": "f764f5fd98adbb81e7e9ff2495931b40ea0502a5595bdd767ebcdbe209208ee2"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 39964,
+      "sha256": "91787c6a43aebad87490b52f10985416814fe0127354d1f869844b662b9211f6"
+    },
+    {
+      "path": "上传说明.md",
+      "bytes": 951,
+      "sha256": "d39f154c4a1a275c8193a516de3d26b26ddb31a8a53ada93bcc9cb6b79ec5293"
+    }
+  ]
+}

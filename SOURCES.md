@@ -13,3 +13,11 @@
 | [docs/templates/weekly-review.md](https://github.com/byoungd/up/blob/master/docs/templates/weekly-review.md) | 证据复盘与下周只改一个变量 |
 
 初学者使用 30–90 秒音频、2–3 句、30–60 秒解释；短邮件仅为逐步可选项。两周提示是本项目适配，不是原文照搬的考试方案。方法不保证 CEFR/TOEIC 成绩，间隔也不是通用定律。原章节只链接、不重新发布；学习记录由用户手动保存。
+
+
+动效参考：MotionSites https://motionsites.ai/ （已由设计阶段实际截图检查；未下载素材）。动画引擎：Anime.js 4.3.0，MIT，https://animejs.com/documentation/animation/ 与 https://animejs.com/documentation/timeline/ 。引擎随 runtime.js 本地打包，许可见 LICENSE-animejs-MIT.txt。版本 2026.10.13-motion.1。
+
+
+## 远征插画来源（内置 ImageGen）
+
+`expedition-terrain.png` 与 `expedition-foreground.png` 由 ChatGPT 内置 ImageGen 为本项目生成，原始 PNG 字节保留。地形提示词摘要：成年学习者的远征，电影感金色暮光、斜俯视河谷、深青森林、碧绿河流与石桥、远山城堡和安静山路，无 UI 或文字。前景提示词摘要：深青蕨叶与岩石位于底部及左右角落，暖金轮廓光，中心透明留空。最终源码路径为 `assets/expedition-terrain.png` 与 `assets/expedition-foreground.png`；上传包中位于根目录。原有 `learner.png` 沿用原字节，本轮未重新生成插画。
